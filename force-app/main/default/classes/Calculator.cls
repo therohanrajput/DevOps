@@ -11,5 +11,8 @@ public with sharing class Calculator {
         return a-b;
     }
 
-    // staged check
+    public integer mul(integer a, integer b){
+        retrun a*b;
+    }
+
 }
