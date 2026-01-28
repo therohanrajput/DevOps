@@ -14,5 +14,6 @@ public with sharing class Calculator {
     public integer mul(integer a, integer b){
         retrun a*b;
     }
+    //extra comment added from github 
 
 }
